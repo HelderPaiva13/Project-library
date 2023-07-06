@@ -15,4 +15,4 @@ function Loop(){
 
 }
 
-const a = 10;
+//fazer todos os elementos de cada card com js
